@@ -1,4 +1,4 @@
-# PID-MOTOR-CONTROL-USING-ARDUINO
+# PID-Motor-Control-Using-Arduino
 
 PID is a method of minimizing the error value of the control signal obtained by feedback and reference, which is generally used by industrial systems.
 
